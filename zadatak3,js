@@ -1,0 +1,6 @@
+let a= (b)=>{
+    
+    return ("Ispis:",b + b.sort());
+}
+c=[22,4,2,"aaaa","bbb"];
+console.log(c)
